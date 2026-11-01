@@ -1,0 +1,6 @@
+{
+  "name": "PulseMetrics - System Performance Snapshot Monitor",
+  "description": "Automated real-time performance monitor capturing periodic snapshots of memory usage, battery level, and CPU load with analytics and alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
